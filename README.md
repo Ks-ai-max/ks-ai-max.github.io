@@ -1,8 +1,8 @@
-<!doctype html>
+
 <html>
     <head>
 	    <meta charset="utf-8">
-	    <title>Моя личная страничка</title>
+	    Моя личная страничка
 	</head>
 	<body> 
 	    <left><h1>Ксения Сергеевна</h1></left>
@@ -13,7 +13,7 @@
 		<br/>
 	    <a href=https://github.com/ks-ai-max>GitHub</a>
 	    <br/>
-	    Телефон: <b>+79102239545</b>
+	    Телефон: <b>+7********45</b>
 	    <br/>
 	    E-mail: <i>KsenS170106@yandex.ru</i>
 	</body>
